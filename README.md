@@ -38,8 +38,8 @@ A documentação está disponível na Wiki do repositório, basta clicar no bot�
 
 <!-- AAUTORES -->
 ## Autores 👨‍💻
-| <img src="https://avatars.githubusercontent.com/u/62662399?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/69048604?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/65295232?v=4" alt="drawing" width="150"/> |
-|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------|
-| [Murilo Gomes Munhoz](https://github.com/MuriloGomesMunhoz)                                 | [João Pedro Rosa Cezarino](https://github.com/akajhon)                                      | [Vitor Martins Oliveira](https://github.com/vihmar)                                         |
-| R.A: 22.120.035-5                                                                           | R.A: 22.120.021-5                                                                           | R.A: 22.120.067-8                                                                       |
-
+| <img src="https://avatars.githubusercontent.com/u/63318165?v=4" alt="Thales" width="150"/> | <img src="https://avatars.githubusercontent.com/u/69048604?v=4" alt="Joao" width="150"/> | <img src="https://avatars.githubusercontent.com/u/65295232?v=4" alt="Vitor" width="150"/> | <img src="https://avatars.githubusercontent.com/u/72151253?v=4" alt="Hugo" width="150"/> |
+|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Thales Oliveira Lacerda](https://github.com/LacThales)                                 | [João Pedro Rosa Cezarino](https://github.com/akajhon)                                      | [Vitor Martins Oliveira](https://github.com/vihmar)                                         | [Hugo Linhares Oliveira](https://github.com/hugolinhareso)                                       |
+| R.A: 22.120.056-1                                                                          | R.A: 22.120.021-5                                                                           | R.A: 22.120.067-8                                                                           | R.A: 22.120.046-2                                                                          |
+***
